@@ -34,14 +34,15 @@
       margin-top: 20px;
         // display: inline-block;
         border: 2px solid #888;
-        border-radius: 4px;
+        border-radius: 20px;
         height: 40px;
         width: 120px;
         font-size: 16px;
-        color: #fff;
+        color: #0097a7;
         background-color: transparent;
         text-transform: uppercase;
         &:hover {
+            color: #fff;
             background-color: #0097a7;
         }
     }
